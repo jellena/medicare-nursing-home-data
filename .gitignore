@@ -1,2 +1,5 @@
 # Jupyter Lab/Notebook
 .ipynb_checkpoints
+
+# Files
+*.csv
