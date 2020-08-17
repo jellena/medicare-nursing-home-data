@@ -3,3 +3,6 @@
 
 # Files
 *.csv
+
+# Credentials
+database.ini
